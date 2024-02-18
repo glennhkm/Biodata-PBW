@@ -161,11 +161,11 @@ video {
   box-shadow: 1px 1px 20px rgb(255, 213, 43);
 }
 
-@media screen and (min-aspect-ratio: 16/9) {
+/* @media screen and (min-aspect-ratio: 16/9) {
   .about .bio {
     font-size: 26.5px;
   }
-}
+} */
 
 .bio .bio-container {
   display: flex;
