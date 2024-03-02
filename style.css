@@ -152,7 +152,7 @@ video {
 
 .about .bio {
   font-weight: 800;
-  font-size: 32px;
+  font-size: 4vh;
   background-color: rgba(253, 232, 114, 0.1);
   padding-top: 30px;
   border-radius: 20px;
